@@ -77,3 +77,16 @@ Diesen Sonderfall haben wir eigentlich ausgeklammert!
 %
 Das kann man am Telefon jetzt schlecht erklären. Machen Sie am besten mal
 einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
+%
+Das Budget dafür ist leider noch nicht freigegeben worden.
+%
+Entschuldigen Sie bitte.  Ich musste gerade über einen Kollegen lachen!
+%
+Nein, das hört sich gar nicht blöd an.  Was vermuten Sie noch?
+%
+Ich würde das genauso machen wie Sie!
+%
+Wahrscheinlich liegt es an Ihrer Firewall.
+%
+Das ist ein bekanntes Problem Ihres Browsers.  Da muss Ihnen Ihre IT mal eine
+neuere Version einspielen!
