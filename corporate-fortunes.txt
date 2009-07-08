@@ -74,3 +74,5 @@ Das werde ich sofort ganz nach oben eskalieren.
 Ich dachte ich hätte das Ihnen so kommuniziert...
 %
 Diesen Sonderfall haben wir eigentlich ausgeklammert!
+%
+Das kann man am Telefon jetzt schlecht erklaeren.  Machen Sie am besten mal einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
