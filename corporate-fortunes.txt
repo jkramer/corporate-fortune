@@ -1,5 +1,5 @@
-Also wir bei $COMPANY sagen dazu nicht "Herausforderung" sondern
-"Problem"!
+Also wir bei $COMPANY sagen dazu nicht "Problem" sondern
+"Herausforderung"!
 %
 Also wir bei $COMPANY sagen dazu nicht "Herausforderung" sondern
 "Ausschluss-Kriterium"!
@@ -41,7 +41,7 @@ sicher zeitnah darum.
 Ja, die Störung ist bekannt und wurde auch schon behoben.  Eigentlich sollte
 jetzt schon wieder alles funktionieren...
 %
-Wissen sie wie man der Browsercache löscht?
+Wissen sie wie man den Browsercache löscht?
 %
 Dann drücken Sie mal Alt-F4... Nein, F5, F5!!
 %
@@ -63,7 +63,7 @@ Alternativ kann sie auch gerne jemand zurück rufen, wie wäre es nächste Woche
 Das ist case-sensitive!
 %
 Und als sie eben ihren Benutzernamen eingegeben haben, waren da alle Buchstaben
-groß?"
+groß?
 %
 Es braucht immer etwas Zeit bis sich die Änderungen durchrepliziert haben!
 %
@@ -75,4 +75,5 @@ Ich dachte ich hätte das Ihnen so kommuniziert...
 %
 Diesen Sonderfall haben wir eigentlich ausgeklammert!
 %
-Das kann man am Telefon jetzt schlecht erklaeren.  Machen Sie am besten mal einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
+Das kann man am Telefon jetzt schlecht erklären. Machen Sie am besten mal
+einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
