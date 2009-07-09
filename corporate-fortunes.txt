@@ -115,3 +115,16 @@ informieren, aber da ist leider keiner ans Telefon gegangen.
 %
 Klar können wir den Fehler jetzt noch beheben. Aber mit dem nächsten Release in
 sechs Monaten ist er sowieso verschwunden.
+%
+Das Budget dafür ist leider noch nicht freigegeben worden.
+%
+Entschuldigen Sie bitte. Ich musste gerade über einen Kollegen lachen!
+%
+Nein, das hört sich gar nicht blöd an. Was vermuten Sie noch?
+%
+Ich würde das genauso machen wie Sie!
+%
+Wahrscheinlich liegt es an Ihrer Firewall.
+%
+Das ist ein bekanntes Problem Ihres Browsers. Da muss Ihnen Ihre IT mal eine
+neuere Version einspielen!
