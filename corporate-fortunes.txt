@@ -21,9 +21,9 @@ geht.
 %
 Das schaue ich mir nach meinem Urlaub gleich als erstes an!
 %
-Ich glaube der $KOLLEGE kennt sich damit besser aus.
+Ich glaube der $COWORKER kennt sich damit besser aus.
 %
-Also das ist jetzt nicht so mein Fachgebiet, normalerweise macht der $KOLLEGE
+Also das ist jetzt nicht so mein Fachgebiet, normalerweise macht der $COWORKER
 sowas immer.
 %
 Habla espanol?
@@ -33,7 +33,7 @@ Uhm, eigentlich putze ich hier nur.
 Ich bin neu hier.
 %
 So, ich schreibe mir mal Ihren Namen, Ihre Telefonnummer und das Problem auf
-und dann ruft sie der $KOLLEGE gleich zurück!
+und dann ruft sie der $COWORKER gleich zurück!
 %
 Ich schreibe das mal alles in ein Ticket für die IT, die kümmern sich dann
 sicher zeitnah darum.
@@ -77,3 +77,41 @@ Diesen Sonderfall haben wir eigentlich ausgeklammert!
 %
 Das kann man am Telefon jetzt schlecht erklären. Machen Sie am besten mal
 einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
+%
+Das erledigt der Kollege X während ich im Urlaub bin.
+%
+Sorry, heute ist der erste Tag nach meinem Urlaub.  Eigentlich wollte der
+Kollege $COWORKER das erledigen.
+%
+Hmm, ich dachte ich hätte Sie in dem Mail in dem wir das als beschlossen
+erklärt haben auf CC gesetzt.
+%
+Den Kollege der sich darum gerade kümmert erreichen Sie unter der $FAX.
+Allerdings ist er gerade nicht am Platz. Versuchen sie es gleich noch mal.
+%
+Also wenn Sie diese Textänderung wirklich wollen werde ich das gerne
+beschätzen, aber unter 5 Stunden wird das sicher nichts.
+%
+Tja... also im Pflichtenheft ist das nicht eindeutig formuliert worden.
+%
+Also von dieser Anforderung höre ich jetzt zum ersten Mal. Sind Sie sicher dass
+Sie das in Auftrag gegeben haben?
+%
+Also ich habe daran nie was geändert, und neulich ging es ja noch. Das Problem
+muss ganz woanders liegen.
+%
+Die Anhänge Ihrer E-Mails werden von unserer Firewall immer rausgefiltert.
+Können Sie die Unterlagen vielleicht noch mal als Postscript schicken?
+%
+Also ab der Weiterleitung verliert sich die Spur leider im Internet...
+%
+Laden Sie die Seite einfach ein paar mal neu, das geht sicher gleich wieder.
+%
+Ah, gut dass Sie anrufen. Ich versuche Sie schon seit gestern zu erreichen.
+%
+Ah, Ihnen ist auch aufgefallen dass Ihre bei uns gehostete Seite nicht mehr
+erreichbar ist. Wir haben Sonntag (vor zwei Monaten) schon versucht Sie zu
+informieren, aber da ist leider keiner ans Telefon gegangen.
+%
+Klar können wir den Fehler jetzt noch beheben. Aber mit dem nächsten Release in
+sechs Monaten ist er sowieso verschwunden.
