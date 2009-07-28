@@ -128,3 +128,7 @@ Wahrscheinlich liegt es an Ihrer Firewall.
 %
 Das ist ein bekanntes Problem Ihres Browsers. Da muss Ihnen Ihre IT mal eine
 neuere Version einspielen!
+%
+Klar hätte ich die Todos erledigen können, aber ich hatte einfach keinen Bock.
+%
+Ach... das sollte ICH machen!
