@@ -78,7 +78,7 @@ Diesen Sonderfall haben wir eigentlich ausgeklammert!
 Das kann man am Telefon jetzt schlecht erklären. Machen Sie am besten mal
 einen Screenshot und schicken Sie mir den zusammen mit einem Stacktrace!
 %
-Das erledigt der Kollege X während ich im Urlaub bin.
+Das erledigt der $COWORKER während ich im Urlaub bin.
 %
 Sorry, heute ist der erste Tag nach meinem Urlaub.  Eigentlich wollte der
 Kollege $COWORKER das erledigen.
