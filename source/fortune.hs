@@ -1,21 +1,33 @@
 
 import System.Environment
 import System.Random
+
+import Data.List.Split
+import Data.String.Utils
 import Data.Char
 
-main = getArgs >>= mapM (load) >>= rand . concat >>= eval
+import Control.Monad
+import Control.Arrow
 
-load = (>>= return . map trim . splitBy '%') . readFile
+main = getArgs >>= mapM load >>= rand . concat >>= eval
 
-eval = putStrLn -- replace $VARIABLES in here!
+load = fmap (map strip . splitOn "%") . readFile
 
-rand list = getStdRandom (randomR (0, (length list) - 1)) >>= return . (!!) list
+eval s =
+    ioVarMap (varList s) >>= putStrLn . foldl (\ s (v, r) -> replace v r s) s
+    where
+        safeEnv v = catch (getEnv v) (return . const ('$' : v))
+        ioVarMap = mapM (\ v -> liftM ((,) ('$' : v)) (safeEnv v))
 
-splitBy _ [] = []
-splitBy sep string =
-	[takes] ++ splitBy sep drops
-	where
-		takes = takeWhile (sep /=) string
-		drops = dropWhile (sep ==) (drop (length takes) string)
 
-trim = reverse . dropWhile (isSpace) . reverse . dropWhile (isSpace)
+
+varList [] = []
+varList ('$':xs) =
+    case takeWhile (\ x -> isUpper x && isAlpha x) xs of
+        "" -> varList xs
+        name -> name : varList (drop (length name) xs)
+
+varList (_:xs) = varList xs
+
+rand [] = error "no fortunes"
+rand xs = liftM ((!!) xs) (getStdRandom (randomR (0, length xs - 1)))
